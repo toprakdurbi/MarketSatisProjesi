@@ -1,4 +1,5 @@
-# MarketSatisProjesi![urun-ekranı-guncelleme](https://github.com/toprakdurbi/MarketSatisProjesi/assets/149363876/3fa62b40-dc6f-4c37-9162-afd1d515393b)
+# MarketSatisProjesi
+![urun-ekranı-guncelleme](https://github.com/toprakdurbi/MarketSatisProjesi/assets/149363876/3fa62b40-dc6f-4c37-9162-afd1d515393b)
 ![urun-ekranı](https://github.com/toprakdurbi/MarketSatisProjesi/assets/149363876/d0c44a58-3c95-40e3-b744-cfce1dac4e6e)
 ![satis-ekleme](https://github.com/toprakdurbi/MarketSatisProjesi/assets/149363876/28a0eacf-a3d1-42ed-b3fd-95f3274042a3)
 ![satis-duzenleme](https://github.com/toprakdurbi/MarketSatisProjesi/assets/149363876/d828b350-1b9d-41c8-88f9-8ffbeec8981c)
